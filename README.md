@@ -1,1 +1,1 @@
-Easyshop is a e commerce website so users can register and login to an account to navigate through the screen purchase products 
+EasyShop is an e-commerce website where users can register for an account, log in, browse products, and make purchases.
