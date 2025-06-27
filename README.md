@@ -39,6 +39,8 @@ Finally, test and debug DELETE endpoints once all creation and retrieval logic i
 At the initial stage of debugging, EASYSHOP didn’t allow users to log in or create an account, or at least those functions weren’t working as intended.
 While debugging the POST register request, I edited the NewUserName, and the issue was resolved, allowing successful user registration and login.
 ![login easyshop](https://github.com/user-attachments/assets/8fad0068-81e3-4ce6-a636-6e036d80bb07)
+## Display products by category
+![CATEGORIES EASYSHOP](https://github.com/user-attachments/assets/0cf0f9b5-07b7-471e-8bc0-4930e19afa48)
 
 
 ## Interesting Code
