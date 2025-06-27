@@ -42,6 +42,12 @@ While debugging the POST register request, I edited the NewUserName, and the iss
 ## Display products by category
 ![CATEGORIES EASYSHOP](https://github.com/user-attachments/assets/0cf0f9b5-07b7-471e-8bc0-4930e19afa48)
 
+## Features to Implement
+Analyzing the features of high-quality websites shows that they are well-organized and offer an easily readable user interface. They allow users to access their profiles, including settings, personal information, security, and order history. Also, when users are browsing products, the website recommends a variety of similar items, which can capture the user's attention and interest. Another feature they implement is allowing users to leave comments and reviews on products. This helps ensure that customers can make confident and informed purchases.
+
+An easily readable user interface is the number one priority. When a website is clean and navigation is smooth, it enhances the shopping experience and doesn't overwhelm the user.
+
+
 
 ## Interesting Code
 An interesting piece of code is the Authentication Controller. The Authentication Controller plays a crucial role in applications, as it handles new user data such as usernames, emails, and passwords. It validates the input, saves the user to the database, and returns a success response.
