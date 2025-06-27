@@ -38,3 +38,5 @@ Finally, test and debug DELETE endpoints once all creation and retrieval logic i
 ## User Register/Login
 At the initial stage of debugging, EASYSHOP didn’t allow users to log in or create an account, or at least those functions weren’t working as intended.
 
+## Interesting Code
+An interesting piece of code is the Authentication Controller. The Authentication Controller plays a crucial role in applications, as it handles new user data such as usernames, emails, and passwords. It validates the input, saves the user to the database, and returns a success response.
