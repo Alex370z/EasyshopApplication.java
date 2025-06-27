@@ -34,9 +34,12 @@ I avoided duplicating logic or making redundant requests. For example, there wer
 
 ## Debugging DELETE requests
 Finally, test and debug DELETE endpoints once all creation and retrieval logic is verified.
-
+## Fixed Features Added
 ## User Register/Login
 At the initial stage of debugging, EASYSHOP didn’t allow users to log in or create an account, or at least those functions weren’t working as intended.
+While debugging the POST register request, I edited the NewUserName, and the issue was resolved, allowing successful user registration and login.
+![login easyshop](https://github.com/user-attachments/assets/8fad0068-81e3-4ce6-a636-6e036d80bb07)
+
 
 ## Interesting Code
 An interesting piece of code is the Authentication Controller. The Authentication Controller plays a crucial role in applications, as it handles new user data such as usernames, emails, and passwords. It validates the input, saves the user to the database, and returns a success response.
