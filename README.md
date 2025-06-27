@@ -32,3 +32,9 @@ Fix: Updated the script to only check that the response is an array, without ass
 ## Avoid duplicates
 I avoided duplicating logic or making redundant requests. For example, there were multiple GET /categories requests—some of which were unnecessary and caused confusion. I kept the collection clean by removing these duplicates and retaining only what was necessary for testing.
 
+## Debugging DELETE requests
+Finally, test and debug DELETE endpoints once all creation and retrieval logic is verified.
+
+## User Register/Login
+At the initial stage of debugging, EASYSHOP didn’t allow users to log in or create an account, or at least those functions weren’t working as intended.
+
