@@ -45,9 +45,13 @@ While debugging the POST register request, I edited the NewUserName, and the iss
 ## Features to Implement
 Analyzing the features of high-quality websites shows that they are well-organized and offer an easily readable user interface. They allow users to access their profiles, including settings, personal information, security, and order history. Also, when users are browsing products, the website recommends a variety of similar items, which can capture the user's attention and interest. Another feature they implement is allowing users to leave comments and reviews on products. This helps ensure that customers can make confident and informed purchases.
 
-An easily readable user interface is the number one priority. When a website is clean and navigation is smooth, it enhances the shopping experience and doesn't overwhelm the user.
+🔍An easily readable user interface is the number one priority. When a website is clean and navigation is smooth, it enhances the shopping experience and doesn't overwhelm the user.
 
+🔎Second would be the must-have features, such as product search, filtering, and categorization. 
 
+👤Third is the addition of user profiles for account management, security, reviews, and comments.
+
+✨Fourth are quality-of-life features that enhance the user experience, such as suggesting products the user was previously viewing or smoother animations.
 
 ## Interesting Code
 An interesting piece of code is the Authentication Controller. The Authentication Controller plays a crucial role in applications, as it handles new user data such as usernames, emails, and passwords. It validates the input, saves the user to the database, and returns a success response.
